@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "6d0b94ec-fa2c-574f-a7f0-59312ee96ec0" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6d0b94ec-fa2c-574f-a7f0-59312ee96ec0" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3028A957-0C1B-4A13-B9A2-56C900F1D248",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6d0b94ec-fa2c-574f-a7f0-59312ee96ec0" : "Example\/XM\/NewIOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MyXm",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MyXm.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.1.8:8080\/svn\/NewIOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6d0b94ec-fa2c-574f-a7f0-59312ee96ec0"
+    }
+  ]
+}
